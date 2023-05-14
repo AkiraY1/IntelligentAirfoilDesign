@@ -14,7 +14,7 @@ We constructed a series of generative machine learning models and evaluated thei
 
 ## Media
 
-Check out our paper "[Machine Learning Approaches for the Component Optimization of Airfoils](https://github.com/AkiraY1/IntelligentAirfoilDesign/ML_Airfoil_Paper_Final.pdf)"
+Check out our paper "[Machine Learning Approaches for the Component Optimization of Airfoils](https://github.com/AkiraY1/IntelligentAirfoilDesign/blob/main/ML_Airfoil_Paper_Final.pdf)"
 
 ![Paper](https://github.com/AkiraY1/IntelligentAirfoilDesign/blob/main/Media/AirfoilPaperPage.png?raw=true)
 
