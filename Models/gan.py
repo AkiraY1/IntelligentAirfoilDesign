@@ -20,15 +20,11 @@ with open("snippy.csv", "r") as f:
 n = np.array(train_foils)
 train_data = torch.as_tensor(train_foils)
 train_labels = torch.zeros(train_data_length)
-train_set = [
-    (train_data[j], train_labels[j]) for j in range(train_data_length)
-]
+train_set = [ (train_data[j], train_labels[j]) for j in range(train_data_length)]
 
 #Preparing data and model
 batch_size = 30
-train_loader = torch.utils.data.DataLoader(
-    train_set, batch_size=batch_size, shuffle=True
-)
+train_loader = torch.utils.data.DataLoader(train_set, batch_size=batch_size, shuffle=True)
 print(train_loader)
 
 class Discriminator(nn.Module):
