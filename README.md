@@ -16,8 +16,8 @@ We constructed a series of generative machine learning models and evaluated thei
 
 Check out our paper "[Machine Learning Approaches for the Component Optimization of Airfoils](https://github.com/AkiraY1/IntelligentAirfoilDesign/ML_Airfoil_Paper_Final.pdf)"
 
-![Paper](https://github.com/AkiraY1/IntelligentAirfoilDesign/Media/AirfoilPaperPage.png?raw=true)
+![Paper](https://github.com/AkiraY1/IntelligentAirfoilDesign/blob/main/Media/AirfoilPaperPage.png?raw=true)
 
 I thought it was pretty cool seeing XFOIL produce the polar files:
 
-![XFOIL](https://github.com/AkiraY1/IntelligentAirfoilDesign/Media/XFOIL.png?raw=true)
+![XFOIL](https://github.com/AkiraY1/IntelligentAirfoilDesign/blob/main/Media/XFOIL.png?raw=true)
